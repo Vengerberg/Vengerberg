@@ -9,7 +9,7 @@
 
 - :octocat: I am working on a ✨Project using Java to explore OOP/API Design:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vengerberg&repo=SkinCareApp)](https://github.com/Vengerberg/SkinCareApp))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vengerberg&repo=SkinCareApp)](https://github.com/Vengerberg/SkinCareApp)
 
 
 -  I'm pursuing a role 💻 as a Java Backend Developer / Automation Test Developer
